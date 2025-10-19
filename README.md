@@ -28,7 +28,6 @@ Secure Messenger — Курсовой проект по Информационн
 
 Окно входа/регистрации
 
-
 <img width="322" height="116" alt="Снимок экрана 2025-10-19 в 15 33 48" src="https://github.com/user-attachments/assets/22ee69a6-cbb4-43a1-ad32-981b47683343" />
 
 Главное окно мессенджера
